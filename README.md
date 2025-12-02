@@ -91,4 +91,4 @@ Provides leadership with real-time and interactive insights
 
 Screenshot / Demo :-
 Example:-
-Power bi Dashboard -
+Power bi Dashboard - https://github.com/priya00811-beep/-E-Commerce-Sales-Dashboard-Power-BI/blob/main/%F0%9F%93%8A%20E-Commerce%20Sales%20Dashboard%20%E2%80%93%20Power%20BI.png
